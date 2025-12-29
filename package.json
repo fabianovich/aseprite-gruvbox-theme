@@ -3,11 +3,11 @@
   "displayName": "Gruvbox Theme",
   "description": "Theme for Aseprite using the Gruvbox palette",
   "version": "1.5",
-  "author": { "name": "JG03dev", "email": "test@test.com", "url": "https://github.com/JG03dev" },
+  "author": { "name": "fabianovich", "email": "test@test.com", "url": "https://github.com/fabianovich" },
   "contributors": [
     {}
   ],
-  "publisher": "JG03-dev",
+  "publisher": "fabianovich",
   "license": "CC-BY-4.0",
   "categories": [
     "Themes"
